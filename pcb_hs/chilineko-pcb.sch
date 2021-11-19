@@ -185,7 +185,7 @@ D-
 Text GLabel 5750 1600 0    50   Input ~ 0
 D+
 $Comp
-L chilineko-pcb-rescue:ATmega32U4-AU-MCU_Microchip_ATmega-bakeneko-65-pcb-rescue-hs_bakeneko-65-pcb-rescue-hs_bakeneko-65-pcb-rescue U2
+L Arduino:ATmega32U4-AU-MCU_Microchip_ATmega U2
 U 1 1 5F26004F
 P 2300 5050
 F 0 "U2" H 1450 4200 50  0000 C CNN
@@ -435,7 +435,7 @@ Wire Wire Line
 Wire Wire Line
 	5350 5150 5650 5150
 $Comp
-L chilineko-pcb-rescue:AVR-ISP-6-Connector-bakeneko-65-pcb-rescue-hs_bakeneko-65-pcb-rescue-hs_bakeneko-65-pcb-rescue J2
+L Arduino:AVR-ISP-6-Connector J2
 U 1 1 5F4C9CCE
 P 2050 1700
 F 0 "J2" H 1721 1796 50  0000 R CNN
