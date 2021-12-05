@@ -1,1 +1,1 @@
-# The default keymap for Bakeneko 65 V3
+# The default keymap for Chilineko
